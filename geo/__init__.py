@@ -1,1 +1,1 @@
-from .utils import *
+__all__ = ['pythagoras', 'circle']
